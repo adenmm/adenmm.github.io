@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(t,n,a){"use strict";a.r(n);a("q1tI");var e=a("Bl7J"),c=a("vrFN"),o=a("qKvR");n.default=function(){return Object(o.b)(e.a,null,Object(o.b)(c.a,{title:"About",keywords:["gatsby","application","react"]}),"//CONTENT HERE")}}}]);
+//# sourceMappingURL=component---src-pages-about-js-ca756680c7534d38cb2e.js.map
