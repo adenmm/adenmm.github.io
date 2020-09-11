@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/reponame",
   siteMetadata: {
     title: `Mohamed Aden`,
     subtitle: `is a software developer based in Minneapolis, MN`,
