@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    pathPrefix: "",
     title: `Mohamed Aden`,
     subtitle: `is a software developer based in Minneapolis, MN`,
     description: `A minimal blog starter built with Gatsbyjs`,
