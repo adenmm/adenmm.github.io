@@ -1,5 +1,4 @@
 module.exports = {
-
   siteMetadata: {
     title: `Mohamed Aden`,
     subtitle: `is a software developer based in Minneapolis, MN`,
